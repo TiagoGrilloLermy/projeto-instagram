@@ -1,5 +1,67 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+
+body{
+    background-color: #FAFAFA;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.img-celular {
+    width: 450px;
+}
+
+.container2 {
+    border: 1px solid #D3D3D3;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 40px;
+}
+
+input {
+    height: 36px;
+    border: 1px solid #D3D3D3;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #0095F6;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    color: #ffffff;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.facebook {
+    color: #385185;
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.esqueceu-senha {
+    color: #385185;
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.container1{
+position: relative;
+}
+
+.img-insta{
+    height: 520px;
+    position: absolute;
+    left: 153px;
+    top: 26px;
 }
