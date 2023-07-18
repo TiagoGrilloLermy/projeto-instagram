@@ -65,3 +65,13 @@ position: relative;
     left: 153px;
     top: 26px;
 }
+
+.aplicativo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-app{
+    height: 40px;
+}
