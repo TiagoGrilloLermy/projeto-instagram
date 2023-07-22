@@ -1,8 +1,9 @@
 # Projeto de Página de Login do Instagram
 
-<p align="center">
-  <img src="https://exemplo.com/logo.png" alt="Logo" width="80" height="80">
-</p>
+<div align="center">
+<img src="./assets/login-instagram.png">
+  Acesse: https://tiagogrillolermy.github.io/projeto-instagram/
+</div>
 
 <p align="center">
   <strong>Um projeto que simula a página de login do Instagram, desenvolvido durante o evento "Missão Programador do Zero" por Rodolfo Mori.</strong>
