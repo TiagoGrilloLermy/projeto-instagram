@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 }
 
 body{
@@ -10,7 +11,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: sans-serif;
 }
 .img-celular {
     width: 450px;
