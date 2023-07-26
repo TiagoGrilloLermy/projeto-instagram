@@ -1,12 +1,15 @@
-let imagem = document.querySelector(".img-2")
+let image = document.getElementById("img-2")
 
-setInterval(() => {
+function changeImage() {
 
-    if (imagem.style.opacity == 0) {
-        imagem.style.opacity = 1
-    } else {
-        imagem.style.opacity = 0
+    if (image.style.opacity == 0) {
+        image.style.opacity = 1
+    } 
+    else {
+        image.style.opacity = 0
     }
+}
 
-
-}, 3000)
+setInterval(function () {
+    changeImage()
+}, 4000);

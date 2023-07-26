@@ -24,6 +24,12 @@ body{
     padding: 40px;
 }
 
+.logo{
+    width: 260px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
 input {
     height: 36px;
     border: 1px solid #D3D3D3;
